@@ -1,6 +1,6 @@
 ## What is Ambient IoT ?
 
-Ambient “to exists or is present on all sides” when applied to the Internet of Things, connects “things” to the cloud using 
+Ambient: “to exist or is present on all sides” - when applied to the Internet of Things, connects “things” to the cloud using 
 technologies that are ubiquitous, sustainable, very low cost, and very small.  The latest state of the art Ambient IoT 
 uses battery-free postage-stamp sized compute devices that power themselves by harvesting energy from radio waves, with 
 active radios that push secure sensing and identity data from everyday things like clothes, food, medicine, packaging to the 
